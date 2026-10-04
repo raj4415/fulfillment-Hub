@@ -1,0 +1,5 @@
+venv/
+.venv/
+__pycache__/
+fulfillment_data.json
+.streamlit/secrets.toml
